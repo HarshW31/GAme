@@ -51,11 +51,10 @@ function gameOver() {
   startOver()
 }
 function startOver(){
-    var gamePattern = [];
-  var userClickedPattern = [];
-
-  var started = false;
-var level = 0;
+    gamePattern = [];
+    userClickedPattern = [];
+    started = false;
+    level = 0;
 }
 
 function nextSequence() {
